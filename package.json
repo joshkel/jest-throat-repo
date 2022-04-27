@@ -1,0 +1,13 @@
+{
+  "name": "jest-throat-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^28.0.2",
+    "jest-watch-typeahead": "^1.1.0"
+  }
+}
